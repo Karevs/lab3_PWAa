@@ -1,0 +1,10 @@
+wymagania to:
+pollution api pod ten open weather 
+z kolorami na jakość pogody
+
+
+lepszy wygląd tej strony cuz it looks like shit
+np tło
+
+
+ewentualnie inne api np randomduck api
