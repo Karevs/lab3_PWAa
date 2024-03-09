@@ -1,0 +1,17 @@
+{
+    "theme_color" : "#4b2f13",
+    "background_color" : "#f63535",
+    "display" : "fullscreen",
+    "scope" : "/",
+    "start_url" : "/lab3_PWAa",
+    "name" : "Aplikacja Pogodowa",
+    "short_name" : "weatherApp",
+    "description" : "WSBLab3PWAProject",
+    "icons": [
+        {
+            "src": "./logo.png",
+            "sizes": "512x512",
+            "type": "png"
+        }
+    ]
+    }
